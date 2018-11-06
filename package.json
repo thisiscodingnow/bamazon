@@ -1,0 +1,30 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Fullfill customer orderds while updating stock for grocery supplies",
+  "main": "bamazon.js",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camcaet/Bamazon.git"
+  },
+  "keywords": [
+    "grocerys",
+    "orders",
+    "server",
+    "database"
+  ],
+  "author": "cameron caetano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camcaet/Bamazon/issues"
+  },
+  "homepage": "https://github.com/camcaet/Bamazon#readme"
+}

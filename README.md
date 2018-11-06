@@ -1,2 +1,3 @@
-# bamazon
-An Amazon-like storefront with the MySQL
+# Bamazon
+
+A basic front-line store app that incorporates Node.js and MySQL Workbench.
